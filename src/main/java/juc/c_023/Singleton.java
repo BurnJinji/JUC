@@ -12,7 +12,7 @@ import java.util.Arrays;
  * @author Pang
  */
 public class Singleton {
-    
+
     private Singleton() {
         System.out.println("singleton init");
     }
